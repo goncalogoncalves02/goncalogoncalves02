@@ -7,6 +7,5 @@ I'm Gonçalo, an aspiring IT professional currently studying **Computer Systems 
 - 🤝 I’m looking to collaborate on: simple C or SQL projects, and anything that helps me grow as a developer.
 - 💬 Ask me about: C language basics, SQL queries, or how I'm balancing work, study, and gym!
 - 📫 How to reach me: [goncalo.goncalves.t0113779@edu.atec.pt] or here on GitHub.
-- ⚡ Fun fact: I'm a karaoke fan — Sinatra, George Michael, and Paul Anka are on my playlist!
 
 Thanks for stopping by! 😊
