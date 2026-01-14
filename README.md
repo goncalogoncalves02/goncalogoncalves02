@@ -3,7 +3,7 @@ I am an Information Systems and Database Programming student at ATEC. I am activ
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/goncalo-goncalves-t0113779/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:goncalo.goncalves.t0113779@edu.atec.pt)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/goncalo-goncalves-t0113779/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:goncalo.goncalves.t0113779@edu.atec.pt)
 
 # 💻 Tech Stack:
 ## 👨🏻‍💻 Programming Languages:
